@@ -1,0 +1,12 @@
+{
+    "name": "date-simple",
+    "version": "2.0.1",
+    "main": "date-simple.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["date-simple", "over-time"],
+    "author": "webguicai",
+    "license": "ISC",
+    "description": "over time"
+}
